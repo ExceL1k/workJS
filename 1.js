@@ -6,3 +6,4 @@ function f1(){
 function f2(){
     alert('вы нажали на кота')
 }
+//hjn
